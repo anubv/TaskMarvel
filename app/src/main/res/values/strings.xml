@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MarvelComicsTask</string>
+    <string name="title_activity_comic_list">ComicListActivity</string>
+</resources>
